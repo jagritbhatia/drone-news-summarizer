@@ -17,11 +17,11 @@ An AI-powered bot that fetches the latest drone industry news from NewsAPI, summ
 
 ### Example: Article Fetching and Summary Output
 
-![Article Fetching and Summary](screenshots/1.png)
+![Article Fetching and Summary](screenshots/1.PNG)
 
 ---
 
-![Social Media Post](screenshots/2.png)
+![Social Media Post](screenshots/2.PNG)
 
 ## Technologies Used
 
